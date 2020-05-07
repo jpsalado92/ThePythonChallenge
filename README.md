@@ -5,6 +5,6 @@ Here is a detailed list of the levels I have solved so far and a small summary o
 Challenge | Contents  
 :---: | -------------
 [0](https://github.com/jpsalado92/ThePythonChallenge/tree/master/0)  | Arithmetic operations
-1 | map(), list comprehensions
-2 | Content column 2
+[1](https://github.com/jpsalado92/ThePythonChallenge/tree/master/1) | map(), list comprehensions
+[2](https://github.com/jpsalado92/ThePythonChallenge/tree/master/2) | re, set()
    
