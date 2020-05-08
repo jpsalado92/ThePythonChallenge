@@ -1,4 +1,4 @@
-# Challenge #2
+# Challenge #3
 **Url**: http://www.pythonchallenge.com/pc/def/equality.html<br/>
 ## Problem Statement
 ![ChallengePic_1](http://www.pythonchallenge.com/pc/def/bodyguard.jpg)<br/>
