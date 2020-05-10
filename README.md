@@ -8,5 +8,6 @@ Challenge | Contents
 [0](0)  | common sense
 [1](1) | map(), list comprehensions
 [2](2) | re, set(), requests
-[3](3) | re.findall(), requests
-[4](4) | re.sub(), requests
+[3](3) | re
+[4](4) | re
+[5](5) | pickle
