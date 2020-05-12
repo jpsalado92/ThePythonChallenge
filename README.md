@@ -12,3 +12,4 @@ Challenge | Contents
 [4](4) | re
 [5](5) | pickle
 [6](6) | zipfile
+[7](7) | PIL, numpy, decoding
