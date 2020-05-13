@@ -13,3 +13,4 @@ Challenge | Contents
 [5](5) | pickle
 [6](6) | zipfile
 [7](7) | PIL, numpy, decoding
+[8](8) | bz2
