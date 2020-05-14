@@ -1,7 +1,9 @@
 # Challenge #5
-**Url**: http://www.pythonchallenge.com/pc/def/peak.html<br/>
+**Url**: http://www.pythonchallenge.com/pc/def/peak.html
+<br/>
 ## Problem Statement
-![ChallengePic_1](http://www.pythonchallenge.com/pc/def/peakhell.jpg)<br/>
+![ChallengePic_5](http://www.pythonchallenge.com/pc/def/peakhell.jpg)
+<br/>
 **Hint**: pronounce it
 
 

@@ -1,7 +1,9 @@
 # Challenge #4
-**Url**: http://www.pythonchallenge.com/pc/def/linkedlist.php<br/>
+**Url**: http://www.pythonchallenge.com/pc/def/linkedlist.php
+<br/>
 ## Problem Statement
-![ChallengePic_1](http://www.pythonchallenge.com/pc/def/chainsaw.jpg)<br/>
+![ChallengePic_4](http://www.pythonchallenge.com/pc/def/chainsaw.jpg)
+<br/>
 
 ## Resolution
 The page header states "follow the chain" and the picture shows some kind of mechanism. There is no hint given, so first we check the source code,

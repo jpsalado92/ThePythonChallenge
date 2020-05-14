@@ -1,7 +1,9 @@
 # Challenge #2
-**Url**: http://www.pythonchallenge.com/pc/def/ocr.html<br/>
+**Url**: http://www.pythonchallenge.com/pc/def/ocr.html
+<br/>
 ## Problem Statement
-![ChallengePic_1](http://www.pythonchallenge.com/pc/def/ocr.jpg)<br/>
+![ChallengePic_2](http://www.pythonchallenge.com/pc/def/ocr.jpg)
+<br/>
 **Hint**: recognize the characters. maybe they are in the book, but MAYBE they are in the page source.
 ## Resolution
 The hint leads us to the page source, if we open it, we can read some instructions and see a big mess of characters.

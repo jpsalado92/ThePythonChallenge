@@ -1,7 +1,8 @@
 # Challenge #7
-**Url**: http://www.pythonchallenge.com/pc/def/oxygen.html<br/>
+**Url**: http://www.pythonchallenge.com/pc/def/oxygen.html
+<br/>
 ## Problem Statement
-![ChallengePic_1](http://www.pythonchallenge.com/pc/def/oxygen.png)
+![ChallengePic_7](http://www.pythonchallenge.com/pc/def/oxygen.png)
 <br/>
 
 ## Resolution

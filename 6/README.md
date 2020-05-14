@@ -1,7 +1,9 @@
 # Challenge #6
-**Url**: http://www.pythonchallenge.com/pc/def/channel.html<br/>
+**Url**: http://www.pythonchallenge.com/pc/def/channel.html
+<br/>
 ## Problem Statement
-![ChallengePic_1](http://www.pythonchallenge.com/pc/def/channel.jpg)<br/>
+![ChallengePic_6](http://www.pythonchallenge.com/pc/def/channel.jpg)
+<br/>
 
 ## Resolution
 The page header states "now there are pairs" and there is no hint given.<br/>
