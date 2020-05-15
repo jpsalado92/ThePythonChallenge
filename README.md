@@ -5,14 +5,14 @@ Here is a detailed list of the levels I have solved so far and a small summary o
 
 Challenge | Contents  
 :---: | -------------
-[0](0)  | common sense
-[1](1) | map(), list comprehensions
-[2](2) | re, set(), requests
-[3](3) | re
-[4](4) | re
-[5](5) | pickle
-[6](6) | zipfile
-[7](7) | PIL, numpy, decoding
-[8](8) | bz2
-[9](9) | matplotlib, requests.auth, re
+[0](00)  | common sense
+[1](01) | map(), list comprehensions
+[2](02) | re, set(), requests
+[3](03) | re
+[4](04) | re
+[5](05) | pickle
+[6](06) | zipfile
+[7](07) | PIL, numpy, decoding
+[8](08) | bz2
+[9](09) | matplotlib, requests.auth, re
 [10](10) | look&say sequence (algorithm)
