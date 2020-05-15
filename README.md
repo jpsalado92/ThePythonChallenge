@@ -15,3 +15,4 @@ Challenge | Contents
 [7](7) | PIL, numpy, decoding
 [8](8) | bz2
 [9](9) | matplotlib, requests.auth, re
+[10](10) | look&say sequence (algorithm)
