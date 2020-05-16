@@ -16,3 +16,4 @@ Challenge | Contents
 [8](08) | bz2
 [9](09) | matplotlib, requests.auth, re
 [10](10) | look&say sequence (algorithm)
+[11](11) | PIL, superposed images
